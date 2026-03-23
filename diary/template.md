@@ -1,3 +1,3 @@
-# yyyy-mm-dd
+# yyyy/mm/dd
 
 {本文}
